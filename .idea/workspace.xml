@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="95e40b92-7c98-4903-97f8-4cd57f8aa0b7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/prettier.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AudioViz/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AudioViz/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1rSLY3VUpl7b3Qx7XXCgRzi57Bv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.21.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="10.17.58" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.prettier.on.save" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95e40b92-7c98-4903-97f8-4cd57f8aa0b7" name="Default Changelist" comment="" />
+      <created>1618964589323</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618964589323</updated>
+      <workItem from="1618964591029" duration="13953000" />
+      <workItem from="1618983736396" duration="744000" />
+      <workItem from="1619070730675" duration="5959000" />
+      <workItem from="1620727240227" duration="3509000" />
+      <workItem from="1621226814771" duration="629000" />
+    </task>
+    <task id="LOCAL-00001" summary="Converted to allow for simple expansion. To add more products, simply add to the products object">
+      <created>1619075210988</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1619075210988</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Converted to allow for simple expansion. To add more products, simply add to the products object">
+      <created>1619075345396</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1619075345396</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Converted to allow for simple expansion. To add more products, simply add to the products object">
+      <created>1619076007173</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1619076007173</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Converted to allow for simple expansion. To add more products, simply add to the products object" />
+    <option name="LAST_COMMIT_MESSAGE" value="Converted to allow for simple expansion. To add more products, simply add to the products object" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="221" y="0" key="CommitChangelistDialog2" timestamp="1619076005977">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="221" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1619076005977" />
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1618964916653">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1618964916653" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1618964916653">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1618964916653" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1618964916653">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1618964916653" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1618964916653">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1618964916653" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1619076134662">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1619076134662" />
+    <state x="275" y="84" key="Vcs.Push.Dialog.v2" timestamp="1619076009263">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="84" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1619076009263" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1619074176925">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1619074176925" />
+  </component>
+</project>
